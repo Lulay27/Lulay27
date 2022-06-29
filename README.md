@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteezyLeezy
-- 👀 I’m interested in ... webdev
+- 👀 I’m interested in ... fullstack dev
 - 🌱 I’m currently learning ... js
 - 💞️ I’m looking to collaborate on ... anything still learning
 - 📫 How to reach me ...
